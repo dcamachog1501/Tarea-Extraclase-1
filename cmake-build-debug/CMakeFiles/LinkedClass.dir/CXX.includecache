@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Collector/CNode.cpp
+CNode.h
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Collector/CNode.h
+
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Collector/CNode.h
+../Estructure/Node.h
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Estructure/Node.h
+
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Collector/Collector.h
+LinkedListC.h
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Collector/LinkedListC.h
+
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Collector/LinkedListC.h
+CNode.h
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Collector/CNode.h
+
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Estructure/Node.h
+iostream
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Estructure/iostream
+string
+-
+../Collector/Collector.h
+/home/dcamachog1501/Desktop/Tarea_Extraclase_1/Collector/Collector.h
+
